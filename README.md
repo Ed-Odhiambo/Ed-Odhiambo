@@ -1,4 +1,4 @@
-![Header](./[https://github.com/Ed-Odhiambo/Ed-Odhiambo/blob/main/GitHub-profile.png])
+![Header](./https://github.com/Ed-Odhiambo/Ed-Odhiambo/blob/main/GitHub-profile.png)
 ### Hi there 👋
 
 <!--
